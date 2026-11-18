@@ -34,4 +34,4 @@ jobs:
     # 4. Run your tests using pytest
     - name: Run pytest
       run: |
-        pytest
+        pytest -s
